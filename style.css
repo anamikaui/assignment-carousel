@@ -2,8 +2,8 @@
 
 @font-face {
     font-family: "CustomFont";
-    src: url("font/Sansation_Bold_Italic.ttf");
-    src: url("font/Sansation_Bold.ttf") ;
+    src: url("Sansation_Bold_Italic.ttf");
+    src: url("Sansation_Bold.ttf") ;
     }
     body {
         font-family: 'CustomFont', Arial, sans-serif;

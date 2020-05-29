@@ -2,8 +2,8 @@
 
 @font-face {
     font-family: "CustomFont";
-    src: url("font/Sansation_Bold_Italic.ttf");
-    src: url("font/Sansation_Bold.ttf") ;
+    src: url("Sansation_Bold_Italic.ttf");
+    src: url("Sansation_Bold.ttf") ;
     }
     body {
         font-family: 'CustomFont', Arial, sans-serif;
@@ -20,6 +20,9 @@ img {vertical-align: middle;}
   max-width: 1000px;
   position: relative;
   margin: auto;
+}
+.mySlides img{
+	max-height:500px;
 }
 /* Caption text */
 .text {
